@@ -7,8 +7,10 @@ bc-2.1.3.tar.gz
 binutils-2.32.tar.xz
 bison-3.4.1.tar.xz
 bzip2-1.0.8.tar.gz
+bzip2-1.0.8-install_docs-1.patch
 check-0.12.0.tar.gz
 coreutils-8.31.tar.xz
+coreutils-8.31-i18n-1.patch
 dbus-1.12.16.tar.gz
 dejagnu-1.6.2.tar.gz
 diffutils-3.7.tar.xz
@@ -25,6 +27,7 @@ gcc-9.2.0.tar.xz
 gdbm-1.18.1.tar.gz
 gettext-0.20.1.tar.xz
 glibc-2.30.tar.xz
+glibc-2.30-fhs-1.patch
 gmp-6.1.2.tar.xz
 gperf-3.1.tar.gz
 grep-3.3.tar.xz
@@ -36,6 +39,7 @@ inetutils-1.9.4.tar.xz
 intltool-0.51.0.tar.gz
 iproute2-5.2.0.tar.xz
 kbd-2.2.0.tar.xz
+kbd-2.2.0-backspace-1.patch
 less-551.tar.gz
 lfs-bootscripts-20190524.tar.xz
 libcap-2.27.tar.xz
@@ -65,6 +69,7 @@ sed-4.7.tar.xz
 shadow-4.7.tar.xz
 sysklogd-1.5.1.tar.gz
 sysvinit-2.95.tar.xz
+sysvinit-2.95-consolidated-1.patch
 tar-1.32.tar.xz
 tcl8.6.9-src.tar.gz
 texinfo-6.6.tar.xz
