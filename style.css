@@ -37,19 +37,7 @@ body {
     background-color: #000000;
     color: #00e600;
 }
-
-html {
-    background: url(sparrow-comingsoon.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
         
 .special-notice {
     color: #ff0000;
-}
-
-.body-black {
-    color: #000000;
-    background-color: #000000;
 }
