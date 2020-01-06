@@ -48,3 +48,8 @@ html {
 .special-notice {
     color: #ff0000;
 }
+
+.body-black {
+    color: #000000;
+    background-color: #000000;
+}
