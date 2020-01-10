@@ -3,6 +3,7 @@ code {
     color: black;
     padding: 5px;
     display: block;
+    white-space: pre-wrap 
 }
 
 ul {
