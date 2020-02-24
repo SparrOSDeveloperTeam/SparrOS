@@ -3,7 +3,7 @@ The Official Release Site for SparrOS
 
 ## How to build
 
-To build SparrOS, you will need to make sure that your linux (or cygwin) environment is set up to run buildroot. Then download [buildroot 2019.02.4 (LTS)](https://buildroot.org/downloads/buildroot-2019.02.8.tar.gz) and untar it. Download one of the following files:
+To build SparrOS, you will need to make sure that your linux (or cygwin) environment is set up to run buildroot. Then download [buildroot 2019.02.9 (LTS)](https://buildroot.org/downloads/buildroot-2019.02.9.tar.gz) and untar it. Download one of the following files:
 
 * [SparrOS Config file for 32-bit machines (legacy boot)](https://raw.githubusercontent.com/SparrOSDeveloperTeam/sparros/master/config-sparros-x86)
 * [SparrOS Config file for 64-bit machines (efi boot)](https://raw.githubusercontent.com/SparrOSDeveloperTeam/sparros/master/config-sparros-x64)
